@@ -1,16 +1,34 @@
-### Hi there 👋
+## _Hi there_ 👋
 
-<!--
-**JohnnyShwarts/JohnnyShwarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _- Details -_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 __Student of QA course by Vadim Ksendzov ...__
+- 🔭 __I study subjects like__
+
+
+```GitBush``` 
+```Postman(API Testing)``` 
+```Android Studio``` 
+```DevTools```
+```Jira```
+```Charles``` 
+```MySQL``` 
+```HTML, CSS, JS, Jmeter```
+
+### _- Сontact me -_
+* 💬 [LinkedIn][in]
+* 📫 [Telegram][tg]
+
+[in]: <https://www.linkedin.com/in/eugene-statsenko-981838237>
+[tg]: <https://t.me/JohnnyShwarts>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=S+t+a+y+_+A+w+a+k+e)](https://git.io/typing-svg)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JohnnyShwarts&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnnyShwarts&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnnyShwarts&theme=solarized_dark)
+
+
+
+
