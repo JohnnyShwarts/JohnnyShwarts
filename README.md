@@ -1,4 +1,7 @@
-## _Hi there_ 👋
+_<h1 align="center"><a href="https://github.com/JohnnyShwarts" target="_blank">Hi there</a>_
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+
 
 ### _- Details -_
 
