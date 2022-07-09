@@ -17,7 +17,9 @@ _<h1 align="center"><a href="https://github.com/JohnnyShwarts" target="_blank">H
 ```Jira```
 ```Charles``` 
 ```MySQL``` 
-```HTML, CSS, JS, Jmeter```
+```HTML, CSS```
+```JS``` 
+```Jmeter```
 
 ### _- Сontact me -_
 * 💬 [LinkedIn][in]
