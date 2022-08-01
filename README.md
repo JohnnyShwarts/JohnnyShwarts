@@ -35,5 +35,5 @@ _<h1 align="center"><a href="https://github.com/JohnnyShwarts" target="_blank">H
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnnyShwarts&theme=solarized_dark)
 
 
-
+![J](https://komarev.com/ghpvc/?username=your-github-JohnnyShwarts)
 
